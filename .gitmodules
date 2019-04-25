@@ -1,3 +1,6 @@
 [submodule "maya"]
 	path = maya
 	url = https://git.yadle.com/integrations/maya
+[submodule "submodule_test"]
+	path = submodule_test
+	url = https://github.com/bpattyj/submodule_test
